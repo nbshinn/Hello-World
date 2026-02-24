@@ -1,4 +1,4 @@
-# Hello-World 
+[hello_world.py](https://github.com/user-attachments/files/25530920/hello_world.py)[hello_world.py](https://github.com/user-attachments/files/25530908/hello_world.py)# Hello-World 
 A simple project demonstrating **GitHub Markdown** syntax.
 
 # Table of contents
@@ -7,7 +7,6 @@ A simple project demonstrating **GitHub Markdown** syntax.
 - [TOOLS USED](#Tools-Used)
 - [FILES USED](#files-used)
 - [HOW TO RUN PROGRAM](#How-to-run-program)
-- [ADDITIONAL INFORMATION](#additional-information)
 
 ## Project Title
 *Hello World Sample - My First Repository*
@@ -26,10 +25,12 @@ This is a simple repository demonstrating **bold text**, *italic text*, and ~~st
 
 ### Python (through Anaconda Navigator - Spyder)
 - **Python** is the primary programming language
+
 - **Anaconda Navigator** GUI for managing Python 
 - **Spyder**  Used for writing and running Python code
 
 ##Files Used 
+hello_world.py
 
 ## How to Run the Program
 
