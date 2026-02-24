@@ -1,5 +1,14 @@
-# Hello-World
+# Hello-Wolrd 
 A simple project demonstrating **GitHub Markdown** syntax.
+
+# Table of contents
+# Table of Contents
+- [PROJECT TITLE](#project-title)
+- [DESCRIPTION](#description)
+- [TOOLS USED](#tools-used)
+- [FILES USED](#files-used)
+- [HOW TO RUN PROGRAM](#how-to-run-program)
+- [ADDITIONAL INFORMATION](#additional-information)
 
 ## Description
 
@@ -12,7 +21,7 @@ This is a simple project demonstrating **bold text**, *italic text*, and ~~strik
 
 ## Tools Used
 
-- Python
+- Python (through anaconda Naviagator - spyder)
 - Git
 - Markdown
 
