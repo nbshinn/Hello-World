@@ -8,6 +8,7 @@ A simple project demonstrating **GitHub Markdown** syntax.
 - [FILES USED](#files-used)
 - [HOW TO RUN PROGRAM](#How-to-run-program)
 - [ADDITIONAL INFORMATION](#additional-information)
+
 ## Project Title
 *Hello World Sample - My First Repository*
 
@@ -33,6 +34,8 @@ This is a simple repository demonstrating **bold text**, *italic text*, and ~~st
 ## How to Run the Program
 
 To run the program, simply execute the following code:
-
+- go into anaconda navigator
+- open spyder
+- to type "Hello, World!", type:
 ```python
 print("Hello, World!")
