@@ -1,24 +1,25 @@
-# Hello-Wolrd 
+# Hello-World 
 A simple project demonstrating **GitHub Markdown** syntax.
 
 # Table of contents
-# Table of Contents
-- [PROJECT TITLE](#project-title)
-- [DESCRIPTION](#description)
-- [TOOLS USED](#tools-used)
+- [PROJECT TITLE](#Project-Title)
+- [DESCRIPTION](#Description)
+- [TOOLS USED](#Tools-Used)
 - [FILES USED](#files-used)
-- [HOW TO RUN PROGRAM](#how-to-run-program)
+- [HOW TO RUN PROGRAM](#How-to-run-program)
 - [ADDITIONAL INFORMATION](#additional-information)
+## Project Title
+*Hello World Sample - My First Repository*
 
 ## Description
 
-This is a simple project demonstrating **bold text**, *italic text*, and ~~strikethrough text~~.
+This is a simple repository demonstrating **bold text**, *italic text*, and ~~strikethrough text~~.
 
 
-- **Bold text**
-- *Italic text*
+- **Bold** text
+- *Italic* text
 - ~~Strikethrough text~~
-
+- ***Bold and Italics*** text
 
 ## Tools Used
 
@@ -27,12 +28,7 @@ This is a simple project demonstrating **bold text**, *italic text*, and ~~strik
 - **Anaconda Navigator** GUI for managing Python 
 - **Spyder**  Used for writing and running Python code
 
-### Git
-- Git is used alongside **GitHub** to host and manage the repository, providing an online platform for version control and collaboration.
-
-### Markdown
-- **Markdown** is a lightweight markup language used for formatting plain text, enabling the creation of structured documents with headings, lists, links, code blocks, and more.
-- It is used in this project to format the `README.md` file, providing clear documentation and an easy-to-read overview of the project’s structure, tools, and instructions.
+##Files Used 
 
 ## How to Run the Program
 
