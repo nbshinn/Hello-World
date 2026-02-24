@@ -1,4 +1,4 @@
-# Hello-World
+# MY First Repository
 A simple project demonstrating **GitHub Markdown** syntax.
 
 # Table of contents
